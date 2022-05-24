@@ -2,7 +2,7 @@
 
 * 🔭 I’m currently working on Engineer Master Solutions LLC and FeedFleet.
 * 🌱 I’m currently learning more about BlockChain and AI/ML.
-* 🤔 I’m looking for help with Feedfleet sales
+* 🤔 I’m looking for help with Feedfleet sales and marketing.
 * 💬 Ask me about product development and roadmap, you can ask me anything about technical challenges.
 * 📫 How to reach me: Twitter - @kapilkarda
 * 😄 Pronouns: He/His
