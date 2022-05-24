@@ -1,18 +1,12 @@
 # Namaste, I'm [Kapil Karda!](https://www.kapilkarda.com) 👋 :
 
-🔭 I’m currently working on Engineer Master Solutions LLC and FeedFleet.
-
-🌱 I’m currently learning more about BlockChain and AI/ML.
-
-🤔 I’m looking for help with Feedfleet sales
-
-💬 Ask me about product development and roadmap, you can ask me anything about technical challenges.
-
-📫 How to reach me: Twitter - @kapilkarda
-
-😄 Pronouns: He/His
-
-⚡ Fun fact: I spend almost 15 hours working every day.
+* 🔭 I’m currently working on Engineer Master Solutions LLC and FeedFleet.
+* 🌱 I’m currently learning more about BlockChain and AI/ML.
+* 🤔 I’m looking for help with Feedfleet sales
+* 💬 Ask me about product development and roadmap, you can ask me anything about technical challenges.
+* 📫 How to reach me: Twitter - @kapilkarda
+* 😄 Pronouns: He/His
+* ⚡ Fun fact: I spend almost 15 hours working every day.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kapilkarda786) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thekapilkarda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-karda/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kapilkarda) 
