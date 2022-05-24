@@ -1,4 +1,4 @@
-# Namaste, I'm [KAPIL KARDA!](https://www.kapilkarda.com)  :
+# Namaste, I'm [Kapil Karda!](https://www.kapilkarda.com) 👋 :
 
 🔭 I’m currently working on Engineer Master Solutions LLC and FeedFleet.
 
