@@ -1,7 +1,8 @@
 # Namaste  :pray: , I'm [Kapil Karda!](https://www.kapilkarda.com) :
 
+* 🔭 I’m looking for better opportunity in Tech Lead positions.
 * 🌱 I’m currently learning more about BlockChain and AI/ML.
-* 🤔 I’m looking for help with Feedfleet sales and marketing.
+* 🤔 I’m looking for help for mentoring the product that I own.
 * 💬 Ask me about product development and roadmap, you can ask me anything about technical challenges.
 * 📫 How to reach me: Twitter - @kapilkarda
 * 😄 Pronouns: He/His
