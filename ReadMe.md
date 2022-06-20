@@ -1,6 +1,5 @@
 # Namaste  :pray: , I'm [Kapil Karda!](https://www.kapilkarda.com) :
 
-* 🔭 I’m currently working on Engineer Master Solutions LLC and FeedFleet.
 * 🌱 I’m currently learning more about BlockChain and AI/ML.
 * 🤔 I’m looking for help with Feedfleet sales and marketing.
 * 💬 Ask me about product development and roadmap, you can ask me anything about technical challenges.
